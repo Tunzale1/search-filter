@@ -1,0 +1,24 @@
+body{
+    margin-left: 10px;
+    }
+    .butt{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+       height:50px;
+      
+    }
+    button{
+       background-color: antiquewhite;
+       width:100px;
+       border: 1px solid antiquewhite;
+    }
+    
+    .yey{
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    h2{
+        background-color: aquamarine;
+    }
